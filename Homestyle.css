@@ -97,7 +97,7 @@
   
   /* Hero Section */
   .hero {
-    background: url("hobbies.jpg") no-repeat center/cover fixed;
+    background: url("Hobbies.jpg") no-repeat center/cover fixed;
     min-height:100vh;
     display:flex;
     justify-content:center;
